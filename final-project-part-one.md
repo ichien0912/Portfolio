@@ -1,10 +1,9 @@
 | [home page](https://ichien0912.github.io/Portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Outline
-During my undergrad at Penn State (we are), I worked in the dining hall for the dorm on campus. As a former food server, I witnessed so much perfectly fine food getting thrown away at the end of the night. Additionally, the employees aren't supposed to take any of the food because it is technically "stealing". We of course took food, but there is only so much we can save. Hence, I aim to create a visualization that shows how much food waste schools created to bring awareness. Reducing food waste only requires a few steps and I believe it is something that could be solved with dedication.  
-
+During my undergrad at Penn State (we are), I worked in the dining hall for the dorm on campus. As a former food server, I witnessed so much perfectly fine food getting thrown away at the end of the night. Additionally, the employees aren't supposed to take any of the food because it is technically "stealing". We of course took food, but there is only so much we can save. Hence, I aim to create a visualization that shows how much food waste schools created in Pennsylvania to bring awareness. Reducing food waste only requires a few steps and I believe it is something that could be solved with dedication.  
 ## Structure
-For 
+For college campus dining, it falls under the category of "food services". Hence, the visualization will focus on food services waste produced per year in Pennsylvania. I aim to begin with mixed media demonstrating photos of food waste to introduce the problem. 
 
 # Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
