@@ -9,14 +9,14 @@ For college campus dining, it falls under the category of "food services". Hence
 ![Screenshot 2024-11-20 125444](https://github.com/user-attachments/assets/c46a4ef7-1c54-440d-b1a4-8b6fe260b32e)
 ![Screenshot 2024-11-20 131026](https://github.com/user-attachments/assets/80c86dba-4223-4857-aedc-99d55f063991)
 
-Text here...
-
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+ReFed is a nonprofit organization that works closely with federal and state governments to prevent food waste in the US. The data they provided includes food waste amounts in different states, sectors that produce food waste, and the cause throughout the year. They also included a grading system for how reliable their data are when looking into different topics related to food waste.
 
-Text here...
+When looking at the main food type that people choose to waste, the data from Kaggle demonstrated which food type gets composed the most when in different environments, events conditions, and more. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+The U.S. Environmental Protection Agency is data that were collected by the government. They looked into different sectors of food waste more specifically. However, the data is old (2018 and 2019). 
+
+Lastly, the Natural Resources Defense Council is also a nonprofit that works closely with public and private sectors to moderate resource waste. They have presented annual reports on food waste and have a team that is dedicated to reducing food waste. The report is helpful and detailed but requires outreach to receive the data table. I have already reached for it. 
 
 | Name | URL | Description |
 |------|-----|-------------|
