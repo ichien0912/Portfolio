@@ -3,10 +3,10 @@
 # Outline
 During my undergrad at Penn State (we are), I worked in the dining hall for the dorm on campus. As a former food server, I witnessed so much perfectly fine food getting thrown away at the end of the night. Additionally, the employees aren't supposed to take any of the food because it is technically "stealing". We of course took food, but there is only so much we can save. Hence, I aim to create a visualization that shows how much food waste schools created in Pennsylvania to bring awareness. Reducing food waste only requires a few steps and I believe it is something that could be solved with dedication.  
 ## Structure
-For college campus dining, it falls under the category of "food services". Hence, the visualization will focus on food services waste produced per year in Pennsylvania. I aim to begin with mixed media demonstrating photos of food waste to introduce the problem. Then, I could present a line graph or bar graph that shows the composed amount of food services in Pennsylvania throughout the year. With the visualization showing that food waste has remained high throughout the years in PA, I would include the common cause of food waste on campus. This would rely more on survey data or case studies. This could potentially be visualized as well. Lastly, I would demonstrate a pie chart that shows the common food types that people waste. 
+For college campus dining, it falls under the category of "food services". Hence, the visualization will focus on food waste caused by the "college and university" category under food services produced per year in Pennsylvania. I aim to begin with mixed media demonstrating photos of food waste to introduce the problem. Then, I could present a line graph or bar graph that shows the composed amount of food services in Pennsylvania throughout the year. With the visualization showing that food waste has remained high throughout the years in PA, I would include the common cause of food waste on campus. This would rely more on survey data or case studies. This could potentially be visualized as well. Lastly, I would demonstrate a pie chart that shows the common food types that people waste. 
 
 # Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+![Screenshot 2024-11-20 125444](https://github.com/user-attachments/assets/c46a4ef7-1c54-440d-b1a4-8b6fe260b32e)
 
 Text here...
 
