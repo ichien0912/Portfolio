@@ -22,9 +22,10 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|ReFed Food Waste Monitor      |https://insights-engine.refed.org/food-waste-monitor?break_by=sector&indicator=tons-surplus&state=PA&view=detail&year=2023     |             |
+|Food wastage data in restaurant      |https://www.kaggle.com/datasets/trevinhannibal/food-wastage-data-in-restaurant     |             |
+|EPA-Food: Material-Specific Data      |https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/food-material-specific-data     |             |
+|Natural Resources Defense Council       |https://www.nrdc.org/sites/default/files/toward-cleaner-plates-food-service-waste-report-20180812.pdf        |             |
 
 # Method and medium
 I plan to use Tableau to create a visualization for the story, mainly. I also plan to explore Shorthand along the way to see if either tool helps present the data better. I have always been interested in mixed media, even though I have no concrete idea of what the mixed media will present at the end of the project, but I believe it would be an interesting route to explore. 
