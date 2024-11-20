@@ -11,11 +11,5 @@ I hope to develop skills that could help present data with better visualization 
 
 All of my work will be published below. Please hire me my cats need me. 
 
-# Assignment: Visualizing government debt using Tableau
-
-# Critique by Design
-
-# Final Project Pt1
-
-# Final Project Pt2
+![IMG_0402](https://github.com/user-attachments/assets/2e1bcc61-69ce-4c15-ac6f-7cb6e4412524)
 
