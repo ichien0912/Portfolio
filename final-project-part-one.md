@@ -7,6 +7,7 @@ For college campus dining, it falls under the category of "food services". Hence
 
 # Initial sketches
 ![Screenshot 2024-11-20 125444](https://github.com/user-attachments/assets/c46a4ef7-1c54-440d-b1a4-8b6fe260b32e)
+![Screenshot 2024-11-20 131026](https://github.com/user-attachments/assets/80c86dba-4223-4857-aedc-99d55f063991)
 
 Text here...
 
