@@ -27,6 +27,4 @@ Text here...
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+I plan to use Tableau to create a visualization for the story, mainly. I also plan to explore Shorthand along the way to see if either tool helps present the data better. I have always been interested in mixed media, even though I have no concrete idea of what the mixed media will present at the end of the project, but I believe it would be an interesting route to explore. 
