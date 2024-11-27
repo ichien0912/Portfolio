@@ -8,23 +8,20 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+The primary audience I would like to reach is legislators who could change food regulations on same-day donations to food banks or non-profits. Due to food safety concerns, college campuses do  not tend to donate their food, even though we have to premake more food to ensure there is always enough food for the dining hall buffet. There is always untouched but cooked fresh food that could be donated. I hope legislators could propose a policy that mandates food safety and donating food from the dining hall or all buffets. 
 
-Text here!
+Another target audience would be universities. To perhaps call on action for them to seek changes in regulations and start partnering up with food banks and non-profits to come up with ways that can save food while maintaining food safety.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+The goal of the interview is to see if the storyboard clearly introduces the problem of food waste on college campuses and if the interviewee can receive the message of the call to action at the end. Additionally, the interview will aim to see what design or setup of the storyboard is confusing or unnecessary. The ultimate goal is to improve the storyboard and make the flow of my story cohesive. 
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+|To see if the interviewee got the topic of the story| Can you describe what the main topic of the storyboard is? |
+|To see if there is anything unclear|Is there anything you find confusing?|
+|If the story reaches the right audience | Do you think this storyboard will reach the right audience to act on the problem?|
+|Design improvement| What do you think of the design? Does the flow seem right?|
+|Overall improvement |What else would you change in this?|
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
