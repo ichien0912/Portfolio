@@ -26,6 +26,8 @@ The goal of the interview is to see if the storyboard clearly introduces the pro
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
+"Food waste produced by college campuses in Pennsylvainia" for the title of the bar graph
+anaerobic digestion = composting 
 Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
