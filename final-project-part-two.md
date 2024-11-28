@@ -24,8 +24,8 @@ The goal of the interview is to see if the storyboard clearly introduces the pro
 ## Interview findings
 | Questions               | Interview 1 (Male 23) | Interview 2 (Male 28) | Interview 3 (Female 40) |
 |-------------------------|--------------------------------|-------------|-------------|
-|Is there anything you find confusing?| Food waste produced by college campuses in Pennsylvania" for the title of the bar graph
-anaerobic digestion = composting |  Since the call of action is to donate the food, write a paragraph explaining how Buffet makes extra food and those can be donated. Not confusing with compost can be donated.              |             |
+|Is there anything you find confusing?| Food waste produced by college campuses in Pennsylvania" for the title of the bar graph| Since the call of action is to donate the food, write a paragraph explaining how Buffet makes extra food and those can be donated. Not confusing with compost can be donated.              |             |
+|                         | anaerobic digestion = composting. can save space  |             |             |
 |                         | Explain some of the terms for people who don't know |             |             |
 |What do you think of the design? Does the flow seem right?| It looks good, just remember to cite all images.         | Add a picture of buffet extra food to clarify donation items.                               |             |             |
 ||| Use ChatGPT to code the enable code from the tableau to HTML code||
