@@ -29,7 +29,7 @@ The goal of the interview is to see if the storyboard clearly introduces the pro
 |                         | Explain some of the terms for people who don't know |             |             |
 |**What do you think of the design? Does the flow seem right?**| It looks good, just remember to cite all images.         | Add a picture of buffet extra food to clarify donation items.                               |             |             |
 ||| Use ChatGPT to code the enable code from the tableau to HTML code||
-
+|**Can you describe what the main topic of the storyboard is?**| Yes.         | Yes it is clear.                               | Yes. Food waste.              | 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
