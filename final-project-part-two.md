@@ -27,9 +27,11 @@ The goal of the interview is to see if the storyboard clearly introduces the pro
 |**Is there anything you find confusing?**| Food waste produced by college campuses in Pennsylvania" for the title of the bar graph| Since the call of action is to donate the food, write a paragraph explaining how Buffet makes extra food and those can be donated. Not confusing with compost can be donated.              |             |
 |                         | anaerobic digestion = composting. can save space  |             |             |
 |                         | Explain some of the terms for people who don't know |             |             |
-|**What do you think of the design? Does the flow seem right?**| It looks good, just remember to cite all images.         | Add a picture of buffet extra food to clarify donation items.                               |             |             |
+|**What do you think of the design? Does the flow seem right?**| It looks good, just remember to cite all images.         | Add a picture of the extra food at the buffet to clarify donation items.                               |             |             |
 ||| Use ChatGPT to code the enable code from the tableau to HTML code||
 |**Can you describe what the main topic of the storyboard is?**| Yes.         | Yes it is clear.                               | Yes. Food waste.              | 
+|**Do you think this storyboard will reach the right audience to act on the problem?**| non-profit, colleges.          | food donation organizations                               | food banks and non-profits.           | 
+
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
