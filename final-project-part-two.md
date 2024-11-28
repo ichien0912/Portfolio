@@ -1,9 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+https://preview.shorthand.com/EyMnmfebmBk9qMDy
 
 # User research 
 
@@ -24,17 +22,13 @@ The goal of the interview is to see if the storyboard clearly introduces the pro
 |Overall improvement |What else would you change in this?|
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-"Food waste produced by college campuses in Pennsylvainia" for the title of the bar graph
-anaerobic digestion = composting 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (Male 23) | Interview 2 (Male 28) | Interview 3 (Female 40) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|Is there anything you find confusing?| Food waste produced by college campuses in Pennsylvania" for the title of the bar graph
+anaerobic digestion = composting |  Since the call of action is to donate the food, write a paragraph explaining how Buffet makes extra food and those can be donated. Not confusing with compost can be donated.              |             |
+|                         | Explain some of the terms for people who don't know |             |             |
+|What do you think of the design? Does the flow seem right?| It looks good, just remember to cite all images.         | Add a picture of buffet extra food to clarify donation items.                               |             |             |
+||| Use ChatGPT to code the enable code from the tableau to HTML code||
 
 
 # Identified changes for Part III
@@ -51,11 +45,3 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
