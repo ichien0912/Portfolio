@@ -24,10 +24,10 @@ The goal of the interview is to see if the storyboard clearly introduces the pro
 ## Interview findings
 | Questions               | Interview 1 (Male 23) | Interview 2 (Male 28) | Interview 3 (Female 40) |
 |-------------------------|--------------------------------|-------------|-------------|
-|**Is there anything you find confusing?**| Food waste produced by college campuses in Pennsylvania" for the title of the bar graph| Since the call of action is to donate the food, write a paragraph explaining how Buffet makes extra food and those can be donated. Not confusing with compost can be donated.              |             |
+|**Is there anything you find confusing?**| Food waste produced by college campuses in Pennsylvania" for the title of the bar graph| Since the call of action is to donate the food, write a paragraph explaining how Buffet makes extra food and those can be donated. Not confusing with compost can be donated.              | Explain the visualization after you display it.            |
 |                         | anaerobic digestion = composting. can save space  |             |             |
 |                         | Explain some of the terms for people who don't know |             |             |
-|**What do you think of the design? Does the flow seem right?**| It looks good, just remember to cite all images.         | Add a picture of the extra food at the buffet to clarify donation items.                               |             |             |
+|**What do you think of the design? Does the flow seem right?**| It looks good, just remember to cite all images.         | Add a picture of the extra food at the buffet to clarify donation items.                               | I like to shadow transition for the cause of waste.             |             |
 ||| Use ChatGPT to code the enable code from the tableau to HTML code||
 |**Can you describe what the main topic of the storyboard is?**| Yes.         | Yes it is clear.                               | Yes. Food waste.              | 
 |**Do you think this storyboard will reach the right audience to act on the problem?**| non-profit, colleges.          | food donation organizations                               | food banks and non-profits.           | 
@@ -40,10 +40,8 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+|Specify which food could be donated on the college campus| Add paragraphs and pictures that specify|
+| Make the title and axis on the visualization clearer.  | Rename the title and specify the units on the axis.              |
+| Cite things better                                         | Cite all images and the data for the visualization.          |
+| Explain the visualization after display instead of jumping right in the cause of waste                                         | maybe even put cause of waster after types of waste                                                                      |
 | ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
