@@ -34,14 +34,14 @@ The goal of the interview is to see if the storyboard clearly introduces the pro
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
 |Specify which food could be donated on the college campus| Add paragraphs and pictures that specify|
 | Make the title and axis on the visualization clearer.  | Rename the title and specify the units on the axis.              |
 | Cite things better                                         | Cite all images and the data for the visualization.          |
-| Explain the visualization after display instead of jumping right in the cause of waste                                         | maybe even put cause of waster after types of waste                                                                      |
+| Explain the visualization after display instead of jumping right into the cause of waste                                         | Maybe even put the cause of waste after types of waste                                                                      |
 | ...add more rows as necessary            |                                                                                 |
+
+# References
+Collegian, S. P. |. D. (2024, September 20). Ranking Penn State’s dining halls. The Daily Collegian. https://www.psucollegian.com/blogs/ranking-penn-state-s-dining-halls/article_d7708d18-76f0-11ef-a874-337457a40149.html
