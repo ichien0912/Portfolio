@@ -28,3 +28,5 @@ Sulpizio, A. (2018, February 24). Beaver Stadium: A visual history through the y
 The presentation went ok. I did run out of time a little and also the Beaver stadium reference should be clarified more that the 20 million tons of food waste is from the whole United States instead of just Pennsylvania. Overall, I do believe there are improvements to bring out the problem better and connect back to the call to action. 
 
 I really enjoyed the class!! Loved all the presentations and really appreciate these different tools that can help us tell stories better. I really like Shorthand! Here is a final picture of my cats Toeby and Miso: 
+![IMG_3116](https://github.com/user-attachments/assets/f5bddb44-b534-4dcb-b5ec-6972a1fa27da)
+![IMG_3111](https://github.com/user-attachments/assets/b24a345a-8944-4177-8c25-053cd87c9550)
