@@ -1,9 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+https://carnegiemellon.shorthandstories.com/food-waste-on-college-campus/index.html
 
 # Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
@@ -21,9 +19,10 @@ Text here!
 Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
+Collegian, S. P. |. D. (2024, September 20). Ranking Penn State’s dining halls. The Daily Collegian. https://www.psucollegian.com/blogs/ranking-penn-state-s-dining-halls/article_d7708d18-76f0-11ef-a874-337457a40149.html
+National Resource Defense Council (NRDC). (2024, August 5). Food waste 101. https://www.nrdc.org/stories/food-waste-101#what-is
+ReFED - Food waste monitor. (n.d.). https://insights-engine.refed.org/food-waste-monitor?break_by=destination&indicator=tons-surplus§or=foodservice&state=PA&view=detail&year=2023
+Sulpizio, A. (2018, February 24). Beaver Stadium: A visual history through the years. Onward State. https://onwardstate.com/2015/09/25/beaver-stadium-a-visual-history-through-the-years/
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
